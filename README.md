@@ -11,6 +11,9 @@ A API nos retorna dados em formato **JSON** (javaScript Object Notation) quando 
 
 ![EndPoints](https://github.com/ArthurGtech/API-Rest---Laravel/blob/master/public/images/rotas.PNG)
 
+##Obtendo a response em JSON utilizando o programa Postman para fazer a requisição
+
+![EndPoints](https://github.com/ArthurGtech/API-Rest---Laravel/blob/master/public/images/postman.PNG)
 
 
 # Front-end
