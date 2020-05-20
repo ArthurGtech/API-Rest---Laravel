@@ -8,6 +8,7 @@ Este é um projeto dividido em duas partes, a primeira parte é a  **API** desen
 # API
 
 A API nos retorna dados em formato **JSON** (javaScript Object Notation) quando acessamos os **endpoints**
+
 ![EndPoints](https://github.com/ArthurGtech/API-Rest---Laravel/blob/master/public/images/rotas.PNG)
 
 
@@ -15,4 +16,7 @@ A API nos retorna dados em formato **JSON** (javaScript Object Notation) quando 
 # Front-end
 
 Acessando as URLs podemos ter acesso as páginas que nos permitem interagir com o sistema
+
+![Web](https://github.com/ArthurGtech/API-Rest---Laravel/blob/master/public/images/web.PNG)
+
 
