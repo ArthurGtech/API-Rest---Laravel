@@ -8,8 +8,7 @@ Este é um projeto dividido em duas partes, a primeira parte é a  **API** desen
 # API
 
 A API nos retorna dados em formato **JSON** (javaScript Object Notation) quando acessamos os **endpoints**
-![EndPoints](public/images/rotas.png)
-Format: ![Alt Text](url)
+![EndPoints](https://github.com/ArthurGtech/API-Rest---Laravel/blob/master/public/images/rotas.PNG)
 
 
 
